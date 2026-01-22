@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Claude Code (lokalne ustawienia)
+.claude/settings.local.json
+
+# Dane
+Lista baz danych.xml
+Lista baz danych.kopia *.xml
