@@ -1,6 +1,6 @@
 # ListaBazDanychCleaner
 
-Skrypt do czyszczenia pliku konfiguracyjnego `Lista baz danych.xml` z wpisów nieistniejących baz danych.
+Skrypt do czyszczenia pliku konfiguracyjnego `Lista baz danych.xml` (plik konfigurujący bazy danych w systemie enova365) z wpisów nieistniejących baz danych.
 
 ## Co robi skrypt
 
